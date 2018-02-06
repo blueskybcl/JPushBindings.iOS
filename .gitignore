@@ -1,0 +1,25 @@
+[Dd]ebug/
+[Oo]bj/
+[Bb]in/
+packages/
+/Output/
+.idea/
+.DS_Store
+*.suo
+*.user
+*.userprefs
+Zion.App.Droid/Resource.Designer.cs
+
+.vs
+Zion.App/bld/
+Zion.sln.GhostDoc.xml
+.vs/config/applicationhost.config
+.vs
+
+*.scgdat
+
+### Test Automation Specific Files ###
+TestResult.xml
+UIAutomation/TestResult.xml
+
+*.favdoc
